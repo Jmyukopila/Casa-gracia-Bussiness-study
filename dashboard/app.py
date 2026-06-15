@@ -339,11 +339,21 @@ with tab_dash:
 
         rows_html = ""
         for i, canal in enumerate(ch_canales):
-            cells = "".join(
-                f'<td style="text-align:center;padding:5px 6px;border-bottom:1px solid #eee">'
-                f'{_badge(ch_valores[i][j])}</td>'
-                for j in range(len(ch_metricas))
-            )
+            cells = ""
+            for j in range(len(ch_metricas)):
+                v = ch_valores[i][j]
+                if canal == "Facebook":
+                    cells += (
+                        f'<td style="text-align:center;padding:5px 6px;border-bottom:1px solid #eee">'
+                        f'<span style="display:inline-flex;align-items:center;gap:5px;white-space:nowrap;color:#999">'
+                        f'<span style="display:inline-block;width:10px;height:10px;border-radius:50%;'
+                        f'background:#ccc;flex-shrink:0"></span>Sin perfil</span></td>'
+                    )
+                else:
+                    cells += (
+                        f'<td style="text-align:center;padding:5px 6px;border-bottom:1px solid #eee">'
+                        f'{_badge(v)}</td>'
+                    )
             rows_html += (
                 f'<tr><td style="padding:5px 8px;border-bottom:1px solid #eee;font-weight:500">'
                 f'{canal}</td>{cells}</tr>'
@@ -362,7 +372,7 @@ with tab_dash:
             f'{rows_html}</table>'
         )
         st.markdown(html, unsafe_allow_html=True)
-        st.caption("0% = inactivo / 100% = optimo | :green[Verificado manualmente]")
+        st.caption("0% = inactivo / 100% = optimo / Sin perfil = no existe | :green[Verificado manualmente]")
 
     st.divider()
     st.markdown("**:material/star: Google Reviews — 45 opiniones (Promedio 4.5/5)**")
@@ -382,10 +392,10 @@ with tab_dash:
         st.markdown("""
 | Situacion actual (datos publicos) | Con datos del PMS + Booking interno |
 |---|---|
-| RevPAR estimado ~$37 | RevPAR real por dia y habitacion |
+| RevPAR estimado ~$46 | RevPAR real por dia y habitacion |
 | Ocupacion ~68% (estimado Cotelco) | Ocupacion real por mes, semana, dia |
 | ADR ~$68 (Booking.com) | ADR real por canal (directo, OTA, web) |
-| Revenue estimado ~$102K | Revenue real por mes + utilidad |
+| Revenue estimado ~$134K | Revenue real por mes + utilidad |
 | Solo Booking + Airbnb visibles | Todos los canales medidos |
 | Sin datos de cliente | Historial de huesped, preferencias, frecuencia |
 """)
@@ -410,6 +420,7 @@ with tab_data:
                 "price_usd_per_night":"USD / noche",
             },
         )
+        st.caption(":orange[Nota: 3 de 4 habitaciones sin precio en Julio (Queen 101, Queen 203, King 202) — el scraping no extrajo el valor, no necesariamente indica falta de disponibilidad]")
 
     st.divider()
     st.markdown("**:material/trending_up: Oportunidad de Pricing por Mes**")

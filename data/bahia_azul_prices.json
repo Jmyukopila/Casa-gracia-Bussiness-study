@@ -1,0 +1,68 @@
+{
+  "booking": {
+    "feb (baja)": {
+      "cop": 773500,
+      "per_night_cop": 257833,
+      "usd": 61.39,
+      "nights": 3
+    },
+    "jul (media)": {
+      "cop": 416500,
+      "per_night_cop": 208250,
+      "usd": 49.58,
+      "nights": 2
+    },
+    "nov (festival)": {
+      "cop": 476000,
+      "per_night_cop": 238000,
+      "usd": 56.67,
+      "nights": 2
+    },
+    "dic (navidad)": {
+      "cop": 1832600,
+      "per_night_cop": 261800,
+      "usd": 62.33,
+      "nights": 7
+    }
+  },
+  "airbnb": {
+    "Suite Manga (Airbnb)": {
+      "feb (baja)": null,
+      "jul (media)": null,
+      "nov (festival)": null,
+      "dic (navidad)": null
+    },
+    "Habitacion Nueva (Airbnb)": {
+      "feb (baja)": {
+        "total": 710125,
+        "currency": "COP",
+        "usd": 56.36,
+        "per_night_cur": 236708
+      },
+      "jul (media)": {
+        "total": 402500,
+        "currency": "COP",
+        "usd": 47.92,
+        "per_night_cur": 201250
+      },
+      "nov (festival)": {
+        "total": 437000,
+        "currency": "COP",
+        "usd": 52.02,
+        "per_night_cur": 218500
+      },
+      "dic (navidad)": {
+        "total": 1682450,
+        "currency": "COP",
+        "usd": 57.23,
+        "per_night_cur": 240350
+      }
+    },
+    "Bahia Azul TW (Airbnb)": {
+      "feb (baja)": null,
+      "jul (media)": null,
+      "nov (festival)": null,
+      "dic (navidad)": null
+    }
+  }
+}

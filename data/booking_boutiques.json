@@ -1,0 +1,163 @@
+[
+  {
+    "hotel": "Hotel Boutique La Artilleria",
+    "slug": "hotel-boutique-la-artilleria",
+    "rating": null,
+    "reviews": null,
+    "price_usd": null
+  },
+  {
+    "hotel": "Casa Don Luis By Faranda Boutique",
+    "slug": "casa-don-luis-by-faranda-boutique",
+    "rating": null,
+    "reviews": 374,
+    "price_usd": null
+  },
+  {
+    "hotel": "Casa Ebano 967",
+    "slug": "casa-ebano-967",
+    "rating": null,
+    "reviews": 2213,
+    "price_usd": null
+  },
+  {
+    "hotel": "Del Mar Guest House",
+    "slug": "del-mar-guest-house",
+    "rating": null,
+    "reviews": null,
+    "price_usd": 30.0
+  },
+  {
+    "hotel": "Villa Alta Guest House",
+    "slug": "villa-alta-guest-house",
+    "rating": null,
+    "reviews": 283,
+    "price_usd": null
+  },
+  {
+    "hotel": "Agena Cabrero",
+    "slug": "agena-cabrero",
+    "rating": null,
+    "reviews": 8,
+    "price_usd": null
+  },
+  {
+    "hotel": "Oz Hotel Luxury",
+    "slug": "oz-hotel-luxury",
+    "rating": null,
+    "reviews": null,
+    "price_usd": 67.0
+  },
+  {
+    "hotel": "GHL Corales de Indias",
+    "slug": "",
+    "rating": 8.5,
+    "reviews": 3249,
+    "price_usd": null
+  },
+  {
+    "hotel": "Viajero Cartagena - Centro Hostel",
+    "slug": "",
+    "rating": 8.6,
+    "reviews": 2025,
+    "price_usd": null
+  },
+  {
+    "hotel": "Soy Local Insignia",
+    "slug": "",
+    "rating": 8.0,
+    "reviews": 1424,
+    "price_usd": null
+  },
+  {
+    "hotel": "Kim",
+    "slug": "",
+    "rating": 8.4,
+    "reviews": 955,
+    "price_usd": null
+  },
+  {
+    "hotel": "Osh Hotel Cartagena",
+    "slug": "",
+    "rating": 8.9,
+    "reviews": 1227,
+    "price_usd": null
+  },
+  {
+    "hotel": "Estelar Cartagena de Indias Hotel y Centro de Convenciones",
+    "slug": "",
+    "rating": 8.9,
+    "reviews": 2940,
+    "price_usd": null
+  },
+  {
+    "hotel": "ibis Cartagena Marbella",
+    "slug": "",
+    "rating": 7.8,
+    "reviews": 2388,
+    "price_usd": null
+  },
+  {
+    "hotel": "Hotel San Sebastian Real",
+    "slug": "",
+    "rating": 8.7,
+    "reviews": 126,
+    "price_usd": null
+  },
+  {
+    "hotel": "Hotel Villa Alta Guest House",
+    "slug": "",
+    "rating": 8.7,
+    "reviews": 284,
+    "price_usd": null
+  },
+  {
+    "hotel": "Hotel Voilá Getsemaní By Huespedia",
+    "slug": "",
+    "rating": 8.6,
+    "reviews": 380,
+    "price_usd": null
+  },
+  {
+    "hotel": "Hotel Dorado Plaza Centro Histórico",
+    "slug": "",
+    "rating": 8.0,
+    "reviews": 567,
+    "price_usd": null
+  },
+  {
+    "hotel": "Hyatt Regency Cartagena",
+    "slug": "",
+    "rating": 8.9,
+    "reviews": 1576,
+    "price_usd": null
+  },
+  {
+    "hotel": "Hotel Virrey Cartagena",
+    "slug": "",
+    "rating": 7.8,
+    "reviews": 960,
+    "price_usd": null
+  },
+  {
+    "hotel": "Hotel Casa Don Luis by Faranda Boutique, a member of Radisson Individuals",
+    "slug": "",
+    "rating": 9.1,
+    "reviews": 376,
+    "price_usd": null
+  },
+  {
+    "hotel": "Hotel Las Americas Casa de Playa",
+    "slug": "",
+    "rating": 8.7,
+    "reviews": 1651,
+    "price_usd": null
+  },
+  {
+    "hotel": "Hotel Marie Real Cartagena",
+    "slug": "",
+    "rating": 7.9,
+    "reviews": 1672,
+    "price_usd": null
+  }
+]

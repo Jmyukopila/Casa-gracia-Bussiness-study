@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Scraped raw data (large / disposable)
+data/*.html
+data/*.txt
+data/debug_*
+
+# Scraper logs / temporaries
+scrapers/*.pyc
+
+# Config
+.env
+*.local

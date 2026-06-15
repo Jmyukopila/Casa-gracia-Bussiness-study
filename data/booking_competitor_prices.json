@@ -1,0 +1,370 @@
+{
+  "jul": [
+    {
+      "title": "Agena Cabrero",
+      "price": "COP 540,000",
+      "rating": "Scored 9.4 9.4Wonderful 8 reviews",
+      "location": ""
+    },
+    {
+      "title": "GHL Corales de Indias",
+      "price": "COP 1,356,960",
+      "rating": "Scored 8.5 8.5Very Good 3,249 reviews",
+      "location": ""
+    },
+    {
+      "title": "Viajero Cartagena - Centro Hostel",
+      "price": "COP 1,226,620",
+      "rating": "Scored 8.6 8.6Excellent 2,025 reviews",
+      "location": ""
+    },
+    {
+      "title": "Soy Local Insignia",
+      "price": "COP 856,440",
+      "rating": "Scored 8.0 8.0Very Good 1,424 reviews",
+      "location": ""
+    },
+    {
+      "title": "Kim",
+      "price": "COP 765,000",
+      "rating": "Scored 8.4 8.4Very Good 955 reviews",
+      "location": ""
+    },
+    {
+      "title": "Osh Hotel Cartagena",
+      "price": "COP 2,429,580",
+      "rating": "Scored 8.9 8.9Excellent 1,227 reviews",
+      "location": ""
+    },
+    {
+      "title": "Estelar Cartagena de Indias Hotel y Centro de Convenciones",
+      "price": "COP 2,949,620",
+      "rating": "Scored 8.9 8.9Excellent 2,940 reviews",
+      "location": ""
+    },
+    {
+      "title": "ibis Cartagena Marbella",
+      "price": "COP 783,760",
+      "rating": "Scored 7.8 7.8Good 2,388 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel San Sebastian Real",
+      "price": "COP 405,000",
+      "rating": "Scored 8.7 8.7Excellent 126 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Villa Alta Guest House",
+      "price": "COP 1,318,160",
+      "rating": "Scored 8.7 8.7Excellent 284 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Boutique La Artilleria",
+      "price": "COP 1,201,400",
+      "rating": "Scored 8.4 8.4Very Good 1,366 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Voilá Getsemaní By Huespedia",
+      "price": "COP 1,349,160",
+      "rating": "Scored 8.6 8.6Excellent 380 reviews",
+      "location": ""
+    },
+    {
+      "title": "Casa Ebano 967",
+      "price": "COP 678,300",
+      "rating": "Scored 8.0 8.0Very Good 2,235 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Dorado Plaza Centro Histórico",
+      "price": "COP 792,000",
+      "rating": "Scored 8.0 8.0Very Good 567 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hyatt Regency Cartagena",
+      "price": "COP 2,279,380",
+      "rating": "Scored 8.9 8.9Excellent 1,576 reviews",
+      "location": ""
+    }
+  ],
+  "nov": [
+    {
+      "title": "Hotel Virrey Cartagena",
+      "price": "COP 812,400",
+      "rating": "Scored 7.8 7.8Good 960 reviews",
+      "location": ""
+    },
+    {
+      "title": "GHL Corales de Indias",
+      "price": "COP 1,594,360",
+      "rating": "Scored 8.5 8.5Very Good 3,249 reviews",
+      "location": ""
+    },
+    {
+      "title": "Viajero Cartagena - Centro Hostel",
+      "price": "COP 943,480",
+      "rating": "Scored 8.6 8.6Excellent 2,025 reviews",
+      "location": ""
+    },
+    {
+      "title": "Soy Local Insignia",
+      "price": "COP 1,044,580",
+      "rating": "Scored 8.0 8.0Very Good 1,424 reviews",
+      "location": ""
+    },
+    {
+      "title": "Agena Cabrero",
+      "price": "COP 1,026,000",
+      "rating": "Scored 9.4 9.4Wonderful 8 reviews",
+      "location": ""
+    },
+    {
+      "title": "Kim",
+      "price": "COP 619,200",
+      "rating": "Scored 8.4 8.4Very Good 955 reviews",
+      "location": ""
+    },
+    {
+      "title": "Osh Hotel Cartagena",
+      "price": "COP 2,456,220",
+      "rating": "Scored 8.9 8.9Excellent 1,227 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Casa Don Luis by Faranda Boutique, a member of Radisson Individuals",
+      "price": "COP 3,009,000",
+      "rating": "Scored 9.1 9.1Wonderful 376 reviews",
+      "location": ""
+    },
+    {
+      "title": "ibis Cartagena Marbella",
+      "price": "COP 899,660",
+      "rating": "Scored 7.8 7.8Good 2,388 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Villa Alta Guest House",
+      "price": "COP 1,350,000",
+      "rating": "Scored 8.7 8.7Excellent 284 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Boutique La Artilleria",
+      "price": "COP 1,047,400",
+      "rating": "Scored 8.4 8.4Very Good 1,366 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Voilá Getsemaní By Huespedia",
+      "price": "COP 1,800,520",
+      "rating": "Scored 8.6 8.6Excellent 380 reviews",
+      "location": ""
+    },
+    {
+      "title": "Oz Hotel Luxury",
+      "price": "COP 1,053,000",
+      "rating": "Scored 9.2 9.2Wonderful 2,702 reviews",
+      "location": ""
+    },
+    {
+      "title": "Estelar Cartagena de Indias Hotel y Centro de Convenciones",
+      "price": "COP 2,552,600",
+      "rating": "Scored 8.9 8.9Excellent 2,940 reviews",
+      "location": ""
+    },
+    {
+      "title": "Casa Ebano 967",
+      "price": "COP 726,760",
+      "rating": "Scored 8.0 8.0Very Good 2,235 reviews",
+      "location": ""
+    }
+  ],
+  "dec": [
+    {
+      "title": "Hotel Virrey Cartagena",
+      "price": "COP 1,344,800",
+      "rating": "Scored 7.8 7.8Good 960 reviews",
+      "location": ""
+    },
+    {
+      "title": "GHL Corales de Indias",
+      "price": "COP 1,554,960",
+      "rating": "Scored 8.5 8.5Very Good 3,249 reviews",
+      "location": ""
+    },
+    {
+      "title": "Viajero Cartagena - Centro Hostel",
+      "price": "COP 1,010,800",
+      "rating": "Scored 8.6 8.6Excellent 2,025 reviews",
+      "location": ""
+    },
+    {
+      "title": "Soy Local Insignia",
+      "price": "COP 1,027,740",
+      "rating": "Scored 8.0 8.0Very Good 1,424 reviews",
+      "location": ""
+    },
+    {
+      "title": "Agena Cabrero",
+      "price": "COP 1,026,000",
+      "rating": "Scored 9.4 9.4Wonderful 8 reviews",
+      "location": ""
+    },
+    {
+      "title": "Kim",
+      "price": "COP 891,000",
+      "rating": "Scored 8.4 8.4Very Good 955 reviews",
+      "location": ""
+    },
+    {
+      "title": "Osh Hotel Cartagena",
+      "price": "COP 2,539,120",
+      "rating": "Scored 8.9 8.9Excellent 1,227 reviews",
+      "location": ""
+    },
+    {
+      "title": "Oz Hotel Luxury",
+      "price": "COP 1,142,980",
+      "rating": "Scored 9.2 9.2Wonderful 2,702 reviews",
+      "location": ""
+    },
+    {
+      "title": "ibis Cartagena Marbella",
+      "price": "COP 698,260",
+      "rating": "Scored 7.8 7.8Good 2,388 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Villa Alta Guest House",
+      "price": "COP 1,350,000",
+      "rating": "Scored 8.7 8.7Excellent 284 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Boutique La Artilleria",
+      "price": "COP 1,375,700",
+      "rating": "Scored 8.4 8.4Very Good 1,366 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Voilá Getsemaní By Huespedia",
+      "price": "COP 1,925,800",
+      "rating": "Scored 8.6 8.6Excellent 380 reviews",
+      "location": ""
+    },
+    {
+      "title": "Estelar Cartagena de Indias Hotel y Centro de Convenciones",
+      "price": "COP 2,209,880",
+      "rating": "Scored 8.9 8.9Excellent 2,940 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Dorado Plaza Centro Histórico",
+      "price": "COP 1,476,000",
+      "rating": "Scored 8.0 8.0Very Good 567 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Las Americas Casa de Playa",
+      "price": "COP 2,786,400",
+      "rating": "Scored 8.7 8.7Excellent 1,651 reviews",
+      "location": ""
+    }
+  ],
+  "feb": [
+    {
+      "title": "Viajero Cartagena - Centro Hostel",
+      "price": "COP 1,161,280",
+      "rating": "Scored 8.6 8.6Excellent 2,025 reviews",
+      "location": ""
+    },
+    {
+      "title": "Soy Local Insignia",
+      "price": "COP 1,263,600",
+      "rating": "Scored 8.0 8.0Very Good 1,424 reviews",
+      "location": ""
+    },
+    {
+      "title": "Agena Cabrero",
+      "price": "COP 1,026,000",
+      "rating": "Scored 9.4 9.4Wonderful 8 reviews",
+      "location": ""
+    },
+    {
+      "title": "Kim",
+      "price": "COP 612,000",
+      "rating": "Scored 8.4 8.4Very Good 955 reviews",
+      "location": ""
+    },
+    {
+      "title": "Osh Hotel Cartagena",
+      "price": "COP 2,673,860",
+      "rating": "Scored 8.9 8.9Excellent 1,227 reviews",
+      "location": ""
+    },
+    {
+      "title": "Oz Hotel Luxury",
+      "price": "COP 1,346,940",
+      "rating": "Scored 9.2 9.2Wonderful 2,702 reviews",
+      "location": ""
+    },
+    {
+      "title": "ibis Cartagena Marbella",
+      "price": "COP 850,260",
+      "rating": "Scored 7.8 7.8Good 2,388 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Voilá Getsemaní By Huespedia",
+      "price": "COP 2,031,920",
+      "rating": "Scored 8.6 8.6Excellent 380 reviews",
+      "location": ""
+    },
+    {
+      "title": "Estelar Cartagena de Indias Hotel y Centro de Convenciones",
+      "price": "COP 3,540,620",
+      "rating": "Scored 8.9 8.9Excellent 2,940 reviews",
+      "location": ""
+    },
+    {
+      "title": "Casa Ebano 967",
+      "price": "COP 678,300",
+      "rating": "Scored 8.0 8.0Very Good 2,235 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Dorado Plaza Centro Histórico",
+      "price": "COP 1,080,000",
+      "rating": "Scored 8.0 8.0Very Good 567 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hyatt Regency Cartagena",
+      "price": "COP 2,353,380",
+      "rating": "Scored 8.9 8.9Excellent 1,576 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Marie Real Cartagena",
+      "price": "COP 983,200",
+      "rating": "Scored 7.9 7.9Good 1,672 reviews",
+      "location": ""
+    },
+    {
+      "title": "Hotel Casa Don Luis by Faranda Boutique, a member of Radisson Individuals",
+      "price": "COP 3,222,120",
+      "rating": "Scored 9.1 9.1Wonderful 376 reviews",
+      "location": ""
+    },
+    {
+      "title": "Del Mar Guest House",
+      "price": "COP 874,380",
+      "rating": "Scored 8.8 8.8Excellent 406 reviews",
+      "location": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "booking": {
+    "feb (baja)": {
+      "cop": 60000,
+      "per_night_cop": 20000,
+      "usd": 4.76
+    },
+    "jul (media)": {
+      "cop": 60000,
+      "per_night_cop": 30000,
+      "usd": 7.14
+    },
+    "nov (festival)": {
+      "cop": 60000,
+      "per_night_cop": 30000,
+      "usd": 7.14
+    },
+    "dic (navidad)": {
+      "cop": 60000,
+      "per_night_cop": 8571,
+      "usd": 2.04
+    }
+  },
+  "airbnb": {
+    "feb (baja)": {
+      "total": 6968,
+      "per_night_mxn": 2322,
+      "usd": 136.59
+    },
+    "jul (media)": {
+      "total": 3454,
+      "per_night_mxn": 1727,
+      "usd": 101.59
+    },
+    "nov (festival)": {
+      "total": 4645,
+      "per_night_mxn": 2322,
+      "usd": 136.59
+    },
+    "dic (navidad)": null
+  }
+}

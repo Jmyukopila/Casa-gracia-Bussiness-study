@@ -1,0 +1,17 @@
+room,season,checkin,checkout,nights,total_local,currency,price_usd_per_night
+Queen 101,Julio (alta),2026-07-15,2026-07-17,2,,MXN,
+Queen 101,Noviembre (Festival),2026-11-01,2026-11-03,2,2273,MXN,66.82
+Queen 101,Diciembre (Navidad),2026-12-20,2026-12-27,7,10917,MXN,91.71
+Queen 101,Febrero (baja),2027-02-10,2027-02-13,3,3409,MXN,66.82
+Queen 203,Julio (alta),2026-07-15,2026-07-17,2,,MXN,
+Queen 203,Noviembre (Festival),2026-11-01,2026-11-03,2,2372,MXN,69.76
+Queen 203,Diciembre (Navidad),2026-12-20,2026-12-27,7,11263,MXN,94.65
+Queen 203,Febrero (baja),2027-02-10,2027-02-13,3,3557,MXN,69.71
+King 202,Julio (alta),2026-07-15,2026-07-17,2,,MXN,
+King 202,Noviembre (Festival),2026-11-01,2026-11-03,2,2372,MXN,69.76
+King 202,Diciembre (Navidad),2026-12-20,2026-12-27,7,11263,MXN,94.65
+King 202,Febrero (baja),2027-02-10,2027-02-13,3,3557,MXN,69.71
+Multiple 103,Julio (alta),2026-07-15,2026-07-17,2,420000,COP,50.0
+Multiple 103,Noviembre (Festival),2026-11-01,2026-11-03,2,460000,COP,54.76
+Multiple 103,Diciembre (Navidad),2026-12-20,2026-12-27,7,2210000,COP,75.17
+Multiple 103,Febrero (baja),2027-02-10,2027-02-13,3,690000,COP,54.76

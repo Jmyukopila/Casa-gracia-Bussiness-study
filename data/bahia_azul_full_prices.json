@@ -1,0 +1,94 @@
+[
+  {
+    "season": "feb (baja)",
+    "rooms": [
+      {
+        "type": "Habitacion Doble con bano privado (1 cama)",
+        "total_cop": 773500,
+        "per_night_cop": 257833,
+        "usd_per_night": 61.39
+      },
+      {
+        "type": "Habitacion Doble con bano privado - 2 camas",
+        "total_cop": 933060,
+        "per_night_cop": 311020,
+        "usd_per_night": 74.05
+      },
+      {
+        "type": "Suite",
+        "total_cop": 1011400,
+        "per_night_cop": 337133,
+        "usd_per_night": 80.27
+      }
+    ]
+  },
+  {
+    "season": "jul (media)",
+    "rooms": [
+      {
+        "type": "Habitacion Doble con bano privado (1 cama)",
+        "total_cop": 416500,
+        "per_night_cop": 208250,
+        "usd_per_night": 49.58
+      },
+      {
+        "type": "Habitacion Doble con bano privado - 2 camas",
+        "total_cop": 478400,
+        "per_night_cop": 239200,
+        "usd_per_night": 56.95
+      },
+      {
+        "type": "Suite",
+        "total_cop": 535600,
+        "per_night_cop": 267800,
+        "usd_per_night": 63.76
+      }
+    ]
+  },
+  {
+    "season": "nov (festival)",
+    "rooms": [
+      {
+        "type": "Habitacion Doble con bano privado (1 cama)",
+        "total_cop": 476000,
+        "per_night_cop": 238000,
+        "usd_per_night": 56.67
+      },
+      {
+        "type": "Habitacion Doble con bano privado - 2 camas",
+        "total_cop": 569600,
+        "per_night_cop": 284800,
+        "usd_per_night": 67.81
+      },
+      {
+        "type": "Suite",
+        "total_cop": 615600,
+        "per_night_cop": 307800,
+        "usd_per_night": 73.29
+      }
+    ]
+  },
+  {
+    "season": "dic (navidad)",
+    "rooms": [
+      {
+        "type": "Habitacion Doble con bano privado (1 cama)",
+        "total_cop": 1832600,
+        "per_night_cop": 261800,
+        "usd_per_night": 62.33
+      },
+      {
+        "type": "Habitacion Doble con bano privado - 2 camas",
+        "total_cop": 2185120,
+        "per_night_cop": 312160,
+        "usd_per_night": 74.32
+      },
+      {
+        "type": "Suite",
+        "total_cop": 2361100,
+        "per_night_cop": 337300,
+        "usd_per_night": 80.31
+      }
+    ]
+  }
+]

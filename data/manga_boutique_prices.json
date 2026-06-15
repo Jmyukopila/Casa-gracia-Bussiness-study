@@ -1,0 +1,66 @@
+[
+  {
+    "hotel": "Boutique Tierra Del Mar",
+    "slug": "boutique-tierra-del-mar-cartagena",
+    "area": "Manga",
+    "rating": null,
+    "reviews": 125,
+    "price_usd": null
+  },
+  {
+    "hotel": "Abel Boutique House",
+    "slug": "abel-boutique-house",
+    "area": "Manga",
+    "rating": null,
+    "reviews": 329,
+    "price_usd": null
+  },
+  {
+    "hotel": "Casa Roman Hotel Boutique",
+    "slug": "casa-roman-hotel-boutique",
+    "area": "Manga",
+    "rating": null,
+    "reviews": null,
+    "price_usd": null
+  },
+  {
+    "hotel": "Mishka Hotel Boutique",
+    "slug": "mishka-boutique",
+    "area": "Manga",
+    "rating": null,
+    "reviews": null,
+    "price_usd": null
+  },
+  {
+    "hotel": "Maranga Boutique",
+    "slug": "maranga-boutique",
+    "area": "Manga",
+    "rating": null,
+    "reviews": null,
+    "price_usd": null
+  },
+  {
+    "hotel": "Casa Ebano 967",
+    "slug": "casa-ebano-967",
+    "area": "Getsemani",
+    "rating": null,
+    "reviews": 2213,
+    "price_usd": null
+  },
+  {
+    "hotel": "Del Mar Guest House",
+    "slug": "del-mar-guest-house",
+    "area": "Bocagrande",
+    "rating": null,
+    "reviews": null,
+    "price_usd": 30
+  },
+  {
+    "hotel": "Hotel San Sebastian Real",
+    "slug": "hotel-san-sebastian-real",
+    "area": "Manga/Cabrero",
+    "rating": null,
+    "reviews": null,
+    "price_usd": 30
+  }
+]
